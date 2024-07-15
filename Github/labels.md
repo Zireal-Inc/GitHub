@@ -1,9 +1,9 @@
 
 #Label Setup
 
-##TOC
+##[TOC]()
 
-# [label color link] (https://github.com/ManageIQ/guides/blob/master/labels.md)
+[label color link](https://github.com/ManageIQ/guides/blob/master/labels.md)
 
 ### Outer Request  
  this is teste for color `#D93F0B` sfsd
