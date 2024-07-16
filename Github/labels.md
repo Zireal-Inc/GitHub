@@ -25,7 +25,7 @@
 | -- | -- | -- |
 | :repeat:  Duplicate | Duplicate of another issue | 	`#EEEEEE` |
 | Type : Bug :lady_beetle: | Something isn't working | `#B60205` |
-| Type : Enhancement :zap: | New Enhancement to Feature [Sub of Project] |  `#1D76DB`|
+| Type : Enhancement :zap: | New feature or request [Sub of Project] |  `#1D76DB`|
 | Type : Feature :rocket:  | New feature  [Sub of Project] |  `#1D76DB`|
 | Type : Project :package: | New Project | `#9638DD` |
 | Type : Question :question: | Further information is requested | `#CC317C` |
